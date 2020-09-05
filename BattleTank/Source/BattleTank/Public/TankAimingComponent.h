@@ -34,4 +34,5 @@ private:
 
 	void MoveBarrelTowards(FVector AimDirection);
 
+
 };
